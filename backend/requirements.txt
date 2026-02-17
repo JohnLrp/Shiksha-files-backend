@@ -11,3 +11,5 @@ livekit>=0.11
 
 # Environment variables
 python-dotenv>=1.0
+
+# A hma ami Requirements.txt kha ka hmang lo a , ka mamawh chin chiah tah hian ka dah
